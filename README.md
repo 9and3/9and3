@@ -1,1 +1,1 @@
-I am currently working as a software developer at CadWork-04, helping build software for the timber construction industry. For any questions related to one of my repos/projects, send an email to [andrea.settimi.dev@gmail.com](andrea.settimi.dev@gmail.com)!
+I am currently working as a software developer at Cadwork-04, helping build software for the timber construction industry. For any questions related to one of my repos/projects, send an email to [andrea.settimi.dev@gmail.com](andrea.settimi.dev@gmail.com)!
